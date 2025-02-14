@@ -1,5 +1,7 @@
 # Random-Password-Generator
 
+LIve : https://praveenkr398.github.io/Random-Password-Generator/
+
 Random Password Generator
 
 🔒 A secure and interactive web app that generates random passwords to help keep your accounts safe. Built with HTML, CSS, and JavaScript, this project combines functionality, security, and a touch of innovation with voice and assistant integration.
