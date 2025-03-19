@@ -4,6 +4,7 @@ Live View : https://praveenkr398.github.io/Random-Password-Generator/
 # 🔐 Random Password Generator
 
 ![Random Password Generator]
+
 A **secure and user-friendly** password generator built with **HTML, CSS, and JavaScript**. This tool automatically generates strong passwords and includes a **voice synthesis feature** to read the password aloud.
 
 ---
@@ -21,7 +22,8 @@ A **secure and user-friendly** password generator built with **HTML, CSS, and Ja
 
 ## 📸 Preview
 
-<img src="https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44" alt="Project Preview" width="100%">
+[![Project Preview](https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44)](https://praveenkr398.github.io/Random-Password-Generator/)
+
 
 ---
 
