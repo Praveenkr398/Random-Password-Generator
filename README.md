@@ -1,38 +1,53 @@
 # Random-Password-Generator
 
 Live View : https://praveenkr398.github.io/Random-Password-Generator/
+# 🔐 Random Password Generator
 
-Here’s the updated project description, including the **Copy Password** feature:
-
----
-
-## **Random Password Generator | Features & Functionality**
-
-### **Project Overview**
-The **Random Password Generator** is a web-based tool designed to create strong and secure passwords instantly. Built using **HTML, CSS, and JavaScript**, this tool ensures better password security with an automatic mix of numbers, symbols, and characters. Additionally, it comes with **voice synthesis**, which reads out the generated password, and a **copy-to-clipboard** feature for convenience.
-
-### **Features:**
-1. **Automatic Password Generation** – Creates a completely random password using a **mix of numbers, symbols, and characters**.
-2. **Fixed Character Type Inclusion** – The user cannot manually choose symbols, numbers, or letters; the generator ensures a balanced mix for stronger security.
-3. **Customizable Password Length** – Users can define the password length (minimum 8 characters).
-4. **Voice Synthesis Feature** – Each generated password is **read aloud** using the Web Speech API.
-5. **Copy to Clipboard** – One-click feature to **copy the generated password** to easily use it elsewhere.
-6. **Responsive UI** – A clean and user-friendly interface that works well on different screen sizes.
-
-### **How It Works**
-1. The user selects the **desired length** of the password.
-2. The generator **automatically creates** a strong password with random characters.
-3. The generated password is displayed in a text field.
-4. The **voice synthesis** reads the password out loud.
-5. The user can **copy the password** with a single click.
-
-### **Technology Stack**
-- **HTML** – Structure and layout.
-- **CSS** – Styling and responsive design.
-- **JavaScript** – Logic for generating random passwords, voice synthesis, and copy-to-clipboard functionality.
+![Random Password Generator](https://praveenkr398.github.io/Random-Password-Generator)  
+A **secure and user-friendly** password generator built with **HTML, CSS, and JavaScript**. This tool automatically generates strong passwords and includes a **voice synthesis feature** to read the password aloud.
 
 ---
 
-Let me know if you need **source code** or additional features! 🚀
+## 🚀 Features
 
-![image](https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44)
+✅ **Random Password Generation** – Uses a mix of **letters, numbers, and symbols**.  
+✅ **Custom Length Selection** – Users can set the password length (minimum 8 characters).  
+✅ **No Character Type Selection** – The user **cannot** manually select symbols or numbers; the generator ensures **strong security**.  
+✅ **🔊 Voice Synthesis** – Each password is **read aloud** for accessibility.  
+✅ **📋 Copy to Clipboard** – One-click **copy feature** for convenience.  
+✅ **🌐 Responsive UI** – Works seamlessly on **mobile and desktop**.  
+
+---
+
+## 📸 Preview
+
+<img src="https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44" alt="Project Preview" width="100%">
+
+---
+
+## 🎮 How It Works
+
+1️⃣ **Set the password length** (Minimum 8 characters).  
+2️⃣ **Click "Generate Password"** – The tool automatically creates a **strong** password.  
+3️⃣ **Voice Synthesis** 🔊 will read the password aloud.  
+4️⃣ **Click "Copy Password"** 📋 to copy it instantly.  
+
+---
+
+## 🛠️ Tech Stack
+
+- 🏗 **HTML** – Structure & layout  
+- 🎨 **CSS** – Styling & responsiveness  
+- ⚡ **JavaScript** – Random password logic, voice synthesis, copy functionality  
+
+---
+
+## 💻 Installation & Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/random-password-generator.git
+
+# Open the index.html file in your browser
+
+![image]()
