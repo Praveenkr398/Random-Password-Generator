@@ -20,7 +20,7 @@ A **secure and user-friendly** password generator built with **HTML, CSS, and Ja
 
 ---
 
-## 📸 Preview
+## 📸 Preview / Click to view live
 
 [![Project Preview](https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44)](https://praveenkr398.github.io/Random-Password-Generator/)
 
