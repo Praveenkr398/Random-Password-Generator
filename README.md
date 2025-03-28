@@ -10,10 +10,10 @@
 ✔ **User-Friendly UI** – Clean and modern design for easy usage 🎨  
 
 ## 📷 Preview  
-![Password Generator Preview](image-link-here)  
+![Password Generator Preview](https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44)  
 
 ## 🔗 Live Demo  
-👉 [Try it Here](https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44)
+👉 [Try it Here](https://praveenkr398.github.io/Random-Password-Generator/)
 
 ## 🛠 Technologies Used  
 - HTML5  
