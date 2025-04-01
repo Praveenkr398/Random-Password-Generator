@@ -12,6 +12,8 @@
 ## 📷 Preview  
 ![Password Generator Preview](https://github.com/user-attachments/assets/45919acb-c8da-4f9c-8b79-5e516094fa44)  
 
+Category:- "Mini Project, HTML, CSS, JavaScript"
+
 ## 🔗 Live Demo  
 👉 [Try it Here](https://praveenkr398.github.io/Random-Password-Generator/)
 
